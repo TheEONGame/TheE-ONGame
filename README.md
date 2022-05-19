@@ -1,6 +1,6 @@
 # Eternal-ON
 
-- his is a group project of undergraduate course Software Project Management 2022 of Macau University of Science and Technology.
+- This is a group project of undergraduate course Software Project Management 2022 of Macau University of Science and Technology.
 - Copyright (c) 2022, Li Yurui, Li Jiahe, Yang Chuanqi, Yang Yuxin. All rights reserved.
 - The game was developed with Unity Engine.
 
