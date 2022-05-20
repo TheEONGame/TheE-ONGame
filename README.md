@@ -11,8 +11,8 @@ This tutorial will teach you how to build and play our game.
 ## Play:
 
 1. Make sure you are using Windows PC. We highly recommend the system is Windows 10 or 11 with latest update. The computer should have 4-core  CPU, 8GB RAM and GPU with at least 2 GB VRAM.
-2. Download the "Eternal-ON.rar" from [release](https://github.com/TheEONGame/TheE-ONGame/releases/).
-3. Unpack the "Eternal-ON.rar".
+2. Download the "Eternal-ON.zip" from [release](https://github.com/TheEONGame/TheE-ONGame/releases/).
+3. Unpack the "Eternal-ON.zip".
 4. Double click "Eternal-ON.exe" to play the game.
 
 
