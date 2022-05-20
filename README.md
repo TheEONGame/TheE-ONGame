@@ -2,7 +2,7 @@
 
 > E-ON is short for Eternal-ON
 
-Official website of the Eternal-ON game (Please use Chrome broswer on computer to have the best experience): https://theeongame.github.io/
+Official website (Please use Chrome broswer on computer to have the best experience): https://theeongame.github.io/
 
 - This is a group project of undergraduate course Software Project Management 2022 of Macau University of Science and Technology.
 - Copyright (c) 2022, Li Yurui, Li Jiahe, Yang Chuanqi, Yang Yuxin. All rights reserved.
