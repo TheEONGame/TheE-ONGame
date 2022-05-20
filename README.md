@@ -10,7 +10,7 @@ Official website (Please use Chrome broswer on computer to have the best experie
 
 This tutorial will teach you how to build and play our game.
 
----
+
 
 ## Play:
 
@@ -19,7 +19,7 @@ This tutorial will teach you how to build and play our game.
 3. Unpack the "Eternal-ON.rar".
 4. Double click "Eternal-ON.exe" to play the game.
 
----
+
 
 ## Build:
 
@@ -39,7 +39,7 @@ This tutorial will teach you how to build and play our game.
 
 8. Choose target platform as Windows and architecture as x86_64, then click the "Build" button.
 
----
+
 
 ## Conclusion:
 
